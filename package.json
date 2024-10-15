@@ -1,0 +1,21 @@
+{
+  "name": "maherglow-themes",
+  "displayName": "MaherGlow-themes",
+  "description": "this is the best vscode themes I made for both dark theme lovers and light themes lovers !",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MaherGlow-Yellow-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MaherGlow-Yellow-Dark.json"
+      }
+    ]
+  }
+}
