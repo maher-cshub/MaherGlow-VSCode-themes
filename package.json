@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "MaherGlow-Yellow-Dark",
+        "label": "MaherGlow-Gold-Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/MaherGlow-Yellow-Dark.json"
+        "path": "./themes/MaherGlow-Gold-Dark.json"
       }
     ]
   }
