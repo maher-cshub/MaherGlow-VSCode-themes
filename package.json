@@ -3,12 +3,15 @@
   "displayName": "MaherGlow-themes",
   "description": "this is the best vscode themes I made for both dark theme lovers and light themes lovers !",
   "version": "0.0.1",
+  "publisher": "MaherArab",
   "engines": {
     "vscode": "^1.94.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": ["dark","light","theme","best dark theme","best light theme","glow","maher","gold"],
+  "repository": {"type": "git","url": "https://github.com/maher-cshub/maherglow-vscode-themes"},
   "contributes": {
     "themes": [
       {
