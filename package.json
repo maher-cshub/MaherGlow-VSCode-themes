@@ -2,7 +2,7 @@
   "name": "maherglow-themes",
   "displayName": "MaherGlow-themes",
   "description": "this is the best vscode themes I made for both dark theme lovers and light themes lovers !",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "MaherArab",
   "engines": {
     "vscode": "^1.94.0"
