@@ -1,4 +1,4 @@
-# ENJOY the nest VScode Themes !
+# ENJOY the best VScode Themes by Maher!
 
 ## Gold Dark
 <div>
