@@ -19,7 +19,11 @@
     "best light theme",
     "glow",
     "maher",
-    "gold"
+    "gold",
+    "darl blue",
+    "blue",
+    "cyan",
+    "sky blue"
   ],
   "repository": {
     "type": "git",
@@ -31,6 +35,11 @@
         "label": "MaherGlow-Gold-Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/MaherGlow-Gold-Dark.json"
+      },
+      {
+        "label": "MaherGlow-Blue-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MaherGlow-Blue-Dark.json"
       }
     ]
   }
