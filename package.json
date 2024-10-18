@@ -23,7 +23,13 @@
     "darl blue",
     "blue",
     "cyan",
-    "sky blue"
+    "sky blue",
+    "mint",
+    "fresh mint",
+    "green",
+    "purple",
+    "red",
+    "coral red"
   ],
   "repository": {
     "type": "git",
@@ -32,14 +38,184 @@
   "contributes": {
     "themes": [
       {
-        "label": "MaherGlow-Gold-Dark",
+        "label": "MaherGlow-Gold Dark-Earthy Tones",
         "uiTheme": "vs-dark",
-        "path": "./themes/MaherGlow-Gold-Dark.json"
+        "path": "./themes/maherglow-gold dark-earthy-tones.json"
       },
       {
-        "label": "MaherGlow-Blue-Dark",
+        "label": "MaherGlow-Gold Dark-Elegant Dusk",
         "uiTheme": "vs-dark",
-        "path": "./themes/MaherGlow-Blue-Dark.json"
+        "path": "./themes/maherglow-gold dark-elegant-dusk.json"
+      },
+      {
+        "label": "MaherGlow-Gold Dark-Fresh Garden",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-gold dark-fresh-garden.json"
+      },
+      {
+        "label": "MaherGlow-Gold Dark-Golden Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-gold dark-golden-glow.json"
+      },
+      {
+        "label": "MaherGlow-Gold Dark-Midnight Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-gold dark-midnight-glow.json"
+      },
+      {
+        "label": "MaherGlow-Gold Dark-Ocean Breeze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-gold dark-ocean-breeze.json"
+      },
+      {
+        "label": "MaherGlow-Gold Dark-Soft Pastels",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-gold dark-soft-pastels.json"
+      },
+      {
+        "label": "MaherGlow-Gold Dark-Urban Chic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-gold dark-urban-chic.json"
+      },
+      {
+        "label": "MaherGlow-Gold Dark-Vibrant Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-gold dark-vibrant-sunset.json"
+      },
+      {
+        "label": "MaherGlow-Gold Dark-Warm Radiance",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-gold dark-warm-radiance.json"
+      },
+      {
+        "label": "MaherGlow-Mint Green Dark-Cool Breeze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-mint green dark-cool-breeze.json"
+      },
+      {
+        "label": "MaherGlow-Mint Green Dark-Fresh Mint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-mint green dark-fresh-mint.json"
+      },
+      {
+        "label": "MaherGlow-Mint Green Dark-Serene Waters",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-mint green dark-serene-waters.json"
+      },
+      {
+        "label": "MaherGlow-Mint Green Dark-Tropical Oasis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-mint green dark-tropical-oasis.json"
+      },
+      {
+        "label": "MaherGlow-Mint Green Dark-Vibrant Jungle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-mint green dark-vibrant-jungle.json"
+      },
+      {
+        "label": "MaherGlow-Purple Dark-Dreamy Lavender 1",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-purple dark-dreamy-lavender 1.json"
+      },  
+      {
+        "label": "MaherGlow-Purple Dark-Dreamy Lavender 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-purple dark-dreamy-lavender 2.json"
+      },  
+      {
+        "label": "MaherGlow-Purple Dark-Enchanted Garden",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-purple dark-enchanted-garden.json"
+      },  
+      {
+        "label": "MaherGlow-Purple Dark-Mystic Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-purple dark-mystic-night.json"
+      },  
+      {
+        "label": "MaherGlow-Purple Dark-Soft Twillight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-purple dark-soft-twillight.json"
+      },  
+      {
+        "label": "MaherGlow-Purple Dark-Vibrant Cosmos",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-purple dark-vibrant-cosmos.json"
+      },    
+      {
+        "label": "MaherGlow-Blue Dark-Cyber Punk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-blue dark-cyber-punk.json"
+      }, 
+      {
+        "label": "MaherGlow-Blue Dark-Gentle Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-blue dark-gentle-night.json"
+      }, 
+      {
+        "label": "MaherGlow-Blue Dark-Gentle Twillight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-blue dark-gentle-twilight.json"
+      }, 
+      {
+        "label": "MaherGlow-Blue Dark-Serene Waters",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-blue dark-serene-waters.json"
+      }, 
+      {
+        "label": "MaherGlow-Blue Dark-Calm Oasis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-blue dark-calm-oasis.json"
+      }, 
+      {
+        "label": "MaherGlow-Blue Dark-Soft Dawn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-blue dark-soft-dawn.json"
+      }, 
+      {
+        "label": "MaherGlow-Blue Dark-Soft Medow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-blue dark-soft-medow.json"
+      }, 
+      {
+        "label": "MaherGlow-Blue Dark-Tranquil Breeze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-blue dark-tranquil-breeze.json"
+      }, 
+      {
+        "label": "MaherGlow-Blue Dark-Vintage Charm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-blue dark-vintage-charm.json"
+      }, 
+      {
+        "label": "MaherGlow-Blue Dark-Zen Garden",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-blue dark-zen-garden.json"
+      }, 
+      {
+        "label": "MaherGlow-Coral Red Dark-Coral Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-coral red dark-coral-sunset.json"
+      }, 
+      {
+        "label": "MaherGlow-Coral Red Dark-Flamingo Bliss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-coral red dark-flamingo-bliss.json"
+      }, 
+      {
+        "label": "MaherGlow-Coral Red Dark-Radiant Rose",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-coral red dark-radiant-rose.json"
+      }, 
+      {
+        "label": "MaherGlow-Coral Red Dark-Sweet Strawberry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-coral red dark-sweet-strawberry.json"
+      }, 
+      {
+        "label": "MaherGlow-Coral Red Dark-Tropical Vibes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maherglow-coral red dark-tropical-vibes.json"
       }
     ]
   }

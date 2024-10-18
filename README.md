@@ -1,7 +1,30 @@
 # ENJOY the best VScode Themes by Maher!
 
-## Gold Dark
+## One of Blue Dark variants !
 <div>
-<img src="https://raw.githubusercontent.com/maher-cshub/maherglow-vscode-themes/refs/heads/main/images/gold-dark.png" />
+<img src="https://github.com/maher-cshub/maherglow-vscode-themes/blob/main/images/blue.jpg?raw=true" />
 </div>
 
+
+## One of Purple Dark variants !
+<div>
+<img src="https://github.com/maher-cshub/maherglow-vscode-themes/blob/main/images/purple.jpg?raw=true" />
+</div>
+
+
+## One of Mint Green Dark variants !
+<div>
+<img src="https://github.com/maher-cshub/maherglow-vscode-themes/blob/main/images/mint.jpg?raw=true" />
+</div>
+
+
+## One of Coral Red Dark variants !
+<div>
+<img src="https://github.com/maher-cshub/maherglow-vscode-themes/blob/main/images/red.jpg?raw=true" />
+</div>
+
+
+## One Gold Dark variants !
+<div>
+<img src="https://github.com/maher-cshub/maherglow-vscode-themes/blob/main/images/gold.jpg?raw=true" />
+</div>
